@@ -33,7 +33,7 @@ public class Solution {
                  break;
             }
         }
-      }
+    }
            
         if(comp==1)
 
